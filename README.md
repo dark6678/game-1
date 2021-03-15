@@ -1,2 +1,2 @@
-# game-1
+# yeet clicker
 my first game
